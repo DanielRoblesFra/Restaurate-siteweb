@@ -204,7 +204,8 @@ section {
     padding: 2rem;
 }
 
-.la-carta .content h2 {
+.la-carta .content h2,
+.la-carta .content p {
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -876,4 +877,5 @@ iframe {
     iframe {
         height: 250px;
     }
+
 }
